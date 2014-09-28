@@ -20,7 +20,7 @@ import RhineClient
 import random
 import sys
 #import ast
-#import urllib
+import urllib
 
 API_KEY = "sdf0b913e4b07b5243b7f527"
 DEBUG = False
